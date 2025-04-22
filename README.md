@@ -1,1 +1,7 @@
 # quyetnv07.github.io
+Phở Bò - Tinh hoa ẩm thực Việt
+
+Phở bò là một trong những món ăn đặc trưng và nổi tiếng nhất của ẩm thực Việt Nam. Với nước dùng đậm đà được hầm từ xương bò trong nhiều giờ, sợi phở mềm mại và những lát thịt bò tươi ngon, món ăn này không chỉ làm say mê người Việt mà còn chinh phục cả thực khách quốc tế.
+Phở thường được ăn kèm với rau thơm, chanh, ớt và một chút tương để tăng thêm hương vị. Đây là món ăn thích hợp cho bữa sáng, trưa hoặc tối, mang lại cảm giác ấm lòng và đầy đủ dinh dưỡng.
+![image](https://github.com/user-attachments/assets/965f2735-c8f9-4036-a755-599a6da25960)
+
